@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Andrés Felipe Suárez Sánchez
-title: Desarrollador de Software e integrador de sistemas
+title: Desarrollador de Software Python/Generador de solucione
 email: anfesusa@gmail.com
 website: https://andres-ss25.github.io/
+phone: +57 3136255232
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,19 +22,19 @@ github_username:  andres-ss25
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: https://www.linkedin.com/in/andr%C3%A9s-felipe-su%C3%A1rez-s%C3%A1nchez-11924789/
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,11 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, Mi nombre es Andrés Felipe Suárez y soy desarrollador de software Python para análisis de datos e integración de hardware. Como buen desarrollador tengo conocimento de proceso de desarrollo de software, tengo experiencia en lidarar equipos de desarrollo alieneando las actividades del equipo con 
-
- desarrollo con las metas de las empresa experAs well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>Google Cloud Platform</mark>, <mark>Python</mark>, <mark>Tecnología LiDAR</mark>, <mark>GIS</mark>, , <mark>Análisis de datos</mark>
+  Hola, Mi nombre es Andrés Felipe Suárez y soy desarrollador de software Python, con sólidos conocimientos en el proceso y ciclo de desarrollo de software enfocado a soluciones de sistemas embebidos para la construcción de sistemas remótos. Con experiancia en liderar y guiar equipos de desarrollo opara dar soluciones de valor que apunten al core del negocio de la empresa y lanzamiento de productos tecnológicos para la industría 4.0. Como científico de datos tengo experiencia en implementar procedimientos python para la carga, transformación, procesamiento y visualización de datos. 
+ 
+Otras destrezas: Google Cloud Platform, <mark>Python</mark>, <mark>Tecnología GNSS/INS + LiDAR</mark>, <mark>GIS</mark>, <mark>Análisis de datos</mark>, Metodológias Agiles. 
 
 content:
 
@@ -66,12 +65,12 @@ content:
         sub_title: Líder de Desarrollo
         caption: Agosto 2019 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Digitalizando el mundo
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: LiDARit
+        title: Observatorio de Paz y Cultura Ciudadana Cali
         link: www.lidarit.com
         # link_text: boringcompany.com
         sub_title: Líder de Desarrollo
