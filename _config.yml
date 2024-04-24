@@ -70,7 +70,7 @@ content:
             El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización. Definir alcances de productos software que dieran respuesta a la integración hardware (LiDAR + GNSS/INS). Definir y desarrollar productos software que permitieran el procesamiento de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos.
 
       - layout: left
-        title: Observatorio de Paz y Cultura Ciudadana Cali
+        title: Observatorio de Paz y Cultura Ciudadana de Santiago de Cali
         link: 
         # link_text: boringcompany.com
         sub_title: Analista de datos
@@ -81,7 +81,7 @@ content:
             Definir el concepto de la paz para la ciudad de Santiago de Cali y encontrar como era afectado por indicadores de violencia fue el gran desafío enfrentado en el observatorio de Paz. El reto aquí fue por medio de instrumentos y talleres con la participación ciudadana encontrar una definición de Paz con un enfoque de ciencia de datos, pipelines de ingesta, extracción de tratamiento de información cualitativa y cuantitativa recopilada por intrumentos sociales y llevar a un indicador una visualización de una defición de Paz con enfoque territorial. Realizar procedimientos para analisis de datos. 
 
       - layout: left
-        title: Observatorio de Paz y Cultura Ciudadana / Secretaria de Paz y Cultura Ciudadana / Santiago de Cali
+        title: Observatorio de Paz y Cultura Ciudadana de Santiago de Cali
         link: 
         # link_text: boringcompany.com
         sub_title: Analista de datos
@@ -127,7 +127,7 @@ content:
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: Universidad de Valle
         caption: 2018
         sub_title: Maestría en Ingeniería énfasis en Automática
