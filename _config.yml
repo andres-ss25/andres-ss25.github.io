@@ -134,12 +134,10 @@ content:
         sub_title: Maestría en Ingeniería énfasis en Automática
         #quote: >
          # Universidad del Valle. La mejor para las mejores.
-        description: | # this will include new lines to allow paragraphs
-          Maestría en ingeniería con e
+        #description: | # this will include new lines to allow paragraphs
+          #Maestría en ingeniería con e I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-            I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-      - layout: left
+      - layout: top-middle
         title: Academia de aviones y helicopteros de Colombia S.A.S (ADAHCOL S.A.S)
         caption: 2017
         sub_title: Piloto y Operaciones RPAS
