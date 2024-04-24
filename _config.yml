@@ -129,9 +129,9 @@ content:
     content:
 
       - layout: top-middle
-        title: Universidad de Valle
+        title: Maestría en Ingeniería énfasis en Automática
         caption: 2018
-        sub_title: Maestría en Ingeniería énfasis en Automática
+        sub_title: Universidad del Valle
         #quote: >
          # Universidad del Valle. La mejor para las mejores.
         #description: | # this will include new lines to allow paragraphs
