@@ -138,9 +138,9 @@ content:
           #Maestría en ingeniería con e I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
       - layout: top-middle
-        title: Academia de aviones y helicopteros de Colombia S.A.S (ADAHCOL S.A.S)
+        title: Piloto y Operaciones RPAS
         caption: 2017
-        sub_title: Piloto y Operaciones RPAS
+        sub_title: Academia de aviones y helicopteros de Colombia S.A.S (ADAHCOL S.A.S)
         #quote: >
         #  Universidad del Valle. La mejor para las mejores.
         #description: | # this will include new lines to allow paragraphs
@@ -149,10 +149,10 @@ content:
          # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
-      - layout: left
-        title: Universidad de Valle
+      - layout: top-middle
+        title: Ingeniero Electrónico
         caption: 2011
-        sub_title: Ingeniero Electrónico
+        sub_title: Universidad del Valle
         quote: >
           Universidad del Valle. La mejor para las mejores.
         #description: | # this will include new lines to allow paragraphs
