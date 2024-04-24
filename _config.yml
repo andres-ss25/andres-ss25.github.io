@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Andrés Felipe Suárez Sánchez
-title: Desarrollador de Software Python/Generador de solucione
+title: Desarrollador de Software Python/Generador de soluciones
 email: anfesusa@gmail.com
 website: https://andres-ss25.github.io/
 phone: +57 3136255232
@@ -63,11 +63,12 @@ content:
         link: www.lidarit.com
         # link_text: boringcompany.com
         sub_title: Líder de desarrollo
-        caption: Agosto 2019 - Present
+        caption: Agosto 2019 - Presente
         quote: >
           Digitalizando el mundo
         description: | # this will include new lines to allow paragraphs
             El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización. Definir alcances de productos software que dieran respuesta a la integración hardware (LiDAR + GNSS/INS). Definir y desarrollar productos software que permitieran el procesamiento de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos.
+
       - layout: left
         title: Observatorio de Paz y Cultura Ciudadana Cali
         link: 
@@ -77,22 +78,114 @@ content:
         quote: >
           Midiendo la Paz en Cali
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Definir el concepto de la paz para la ciudad de Santiago de Cali y encontrar como era afectado por indicadores de violencia fue el gran desafío enfrentado en el observatorio de Paz. El reto aquí fue por medio de instrumentos y talleres con la participación ciudadana encontrar una definición de Paz con un enfoque de ciencia de datos, pipelines de ingesta, extracción de tratamiento de información cualitativa y cuantitativa recopilada por intrumentos sociales y llevar a un indicador una visualización de una defición de Paz con enfoque territorial. Realizar procedimientos para analisis de datos. 
 
+      - layout: left
+        title: Observatorio de Paz y Cultura Ciudadana / Secretaria de Paz y Cultura Ciudadana / Santiago de Cali
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Analista de datos
+        caption: Febrero 2018 - Diciembre 2018
+        quote: >
+          Midiendo la Paz en Cali
+        description: | # this will include new lines to allow paragraphs
+            Definir el concepto de la paz para la ciudad de Santiago de Cali y encontrar como era afectado por indicadores de violencia fue el gran desafío enfrentado en el observatorio de Paz. El reto aquí fue por medio de instrumentos y talleres con la participación ciudadana encontrar una definición de Paz con un enfoque de ciencia de datos, pipelines de ingesta, extracción de tratamiento de información cualitativa y cuantitativa recopilada por intrumentos sociales y llevar a un indicador una visualización de una defición de Paz con enfoque territorial. Realizar procedimientos para analisis de datos. Realizar procedimientos para analisis de datos en Python y ETL desde fuentes de datos abiertos.
+
+      - layout: left
+        title: Real Group Interactive
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Director de proyectos y operaciones
+        caption: Agosto 2015 - Julio 2017
+        quote: >
+          Captura información Geoespacial con LiDAR y sensores remotos
+        description: | # this will include new lines to allow paragraphs
+            Liderar las operaciones de captura geoespacial. Definir metodos de procesamiento de datos Geoespaciales y definir productos derivados de sensores remotos tipo LiDAR, Fotogrametría y Cámaras multiesprectales.
+
+      - layout: left
+        title: Universidad del Valle. Escuela de Ingeniería Eléctrica y Electrónica
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Asistente de docencia
+        caption: Febrero 2013 - Diciembre 2014
+        quote: >
+          Universidad del Valle. La mejor para las mejores 
+        description: | # this will include new lines to allow paragraphs
+            Dirigir los cursos de laboratorio de electrónica I, II. Programas las prácticas de laboratorio para el apoyo del aprendizaje de los conceptos brindados en la clase magistral. Actualizar las guías de laboratorio, calificar informes y guiar la práctica de laboratorio.
+
+      - layout: left
+        title: Beca Pasantía Jóvenes Investigadores e Innovadores Colciencias 2012
+        link: 
+        # link_text: boringcompany.com
+        sub_title: Ingeniero investigador
+        caption: Febrero 2012 - Diciembre 2012
+        quote: >
+          Investiga, crea y siembra la ciencia. 
+        description: | # this will include new lines to allow paragraphs
+            Liderar el desarrollo y ejecución del proyecto de investigación titulado "Diseño e implementación de un sistema de reconstrucción 3D para la aplicación de robot móviles en el transporte de cargas". El desafío en esta etapa fue adquirir la metodología y disciplina para ser independiente en la ejecucción de un proyecto de investigación, considerando los desafíos que enmarca un desarrollo, gestión y entrega de reportes a la entidad colciencias.   
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Universidad de Valle
+        caption: 2018
+        sub_title: Maestría en Ingeniería énfasis en Automática
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Universidad del Valle. La mejor para las mejores.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: left
+        title: Academia de aviones y helicopteros de Colombia S.A.S (ADAHCOL S.A.S)
+        caption: 2017
+        sub_title: Piloto y Operaciones RPAS
+        #quote: >
+        #  Universidad del Valle. La mejor para las mejores.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+
+      - layout: left
+        title: Universidad de Valle
+        caption: 2011
+        sub_title: Ingeniero Electrónico
+        quote: >
+          Universidad del Valle. La mejor para las mejores.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: Otros Estudios # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Ministerio TIC - Universidad Nacional de Colombia
+        caption: 2022
+        sub_title: Desarrollo de aplicaciones WEB programa mision TIC 2022
+        #quote: >
+        #  Universidad del Valle. La mejor para las mejores.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+      - layout: left
+        title: Universidad de Valle
+        caption: 2011
+        sub_title: Ingeniero Electrónico
+        quote: >
+          Universidad del Valle. La mejor para las mejores.
+        #description: | # this will include new lines to allow paragraphs
+        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
 
   - title: Proyectos # Title for the section
     layout: list # Type of content section (list/text)
