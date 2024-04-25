@@ -51,7 +51,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, Mi nombre es Andrés Felipe Suárez y soy desarrollador de software Python, con sólidos conocimientos en el proceso y ciclo de desarrollo de software enfocado a soluciones de sistemas embebidos para la construcción de sistemas remótos. Con experiancia en liderar y guiar equipos de desarrollo opara dar soluciones de valor que apunten al core del negocio de la empresa y lanzamiento de productos tecnológicos para la industría 4.0. Como científico de datos tengo experiencia en implementar procedimientos python para la carga, transformación, procesamiento y visualización de datos. 
  
-Otras destrezas: Google Cloud Platform, <mark>Python</mark>, <mark>Tecnología GNSS/INS + LiDAR</mark>, <mark>GIS</mark>, <mark>Análisis de datos</mark>, Metodológias Agiles. 
+Google Cloud Platform, <mark>Python</mark>, <mark>Tecnología GNSS/INS + LiDAR</mark>, <mark>GIS</mark>, <mark>Análisis de datos</mark>, Metodológias Agiles. 
 
 content:
 
@@ -153,8 +153,8 @@ content:
         title: Ingeniero Electrónico
         caption: 2011
         sub_title: Universidad del Valle
-        quote: >
-          Universidad del Valle. La mejor para las mejores.
+        #quote: >
+        #  Universidad del Valle. La mejor para las mejores.
         #description: | # this will include new lines to allow paragraphs
         #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
