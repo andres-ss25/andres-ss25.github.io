@@ -51,7 +51,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, Mi nombre es Andrés Felipe Suárez y soy desarrollador de software Python, con sólidos conocimientos en el proceso y ciclo de desarrollo de software enfocado a soluciones de sistemas embebidos para la construcción de sistemas remótos. Con experiancia en liderar y guiar equipos de desarrollo opara dar soluciones de valor que apunten al core del negocio de la empresa y lanzamiento de productos tecnológicos para la industría 4.0. Como científico de datos tengo experiencia en implementar procedimientos python para la carga, transformación, procesamiento y visualización de datos. 
  
-Otras destrezas: Google Cloud Platform, <mark>Python</mark>, <mark>Tecnología GNSS/INS + LiDAR</mark>, <mark>GIS</mark>, <mark>Análisis de datos</mark>, Metodológias Agiles. 
+skills: Google Cloud Platform, <mark>Python</mark>, <mark>Tecnología GNSS/INS + LiDAR</mark>, <mark>GIS</mark>, <mark>Análisis de datos</mark>, Metodológias Agiles. 
 
 content:
 
@@ -206,17 +206,17 @@ content:
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
-  - title: A Little More About Me
+  - title: Conoce un poco más de mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Seré un poco breve para que conozcas más de mí: Me gusta la programación y constantemente estar actualizandome sobre tempaticas en el campo de las TI, me gustan las motos y montar en bicicleta:
+      - Me gusta la programación y el autoaprendizaje, constantemente me gusta aprender algo nuevo. 
+      - Montar en bici y en moto, sentir el aire me hace libre.
+      - De música me gusta el Rock, el Metal y la música de sanación. Desde lo más oscuro a lo más angelical.
+  #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #    Look at this cool image  
+  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
