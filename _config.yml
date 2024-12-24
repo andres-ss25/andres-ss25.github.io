@@ -23,7 +23,7 @@ github_username:  andres-ss25
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/andr%C3%A9s-felipe-su%C3%A1rez-s%C3%A1nchez-11924789/
+linkedin_username: www.linkedin.com/in/andrés-felipe-suárez-sánchez-dev
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -47,7 +47,7 @@ linkedin_username: https://www.linkedin.com/in/andr%C3%A9s-felipe-su%C3%A1rez-s%
 
 # About Section
 about_title: Sobre mi
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, Mi nombre es Andrés Felipe Suárez y soy desarrollador de software Python, con sólidos conocimientos en el proceso y ciclo de desarrollo de software enfocado a soluciones de sistemas embebidos para la construcción de sistemas remótos. Con experiancia en liderar y guiar equipos de desarrollo opara dar soluciones de valor que apunten al core del negocio de la empresa y lanzamiento de productos tecnológicos para la industría 4.0. Como científico de datos tengo experiencia en implementar procedimientos python para la carga, transformación, procesamiento y visualización de datos. 
  
@@ -63,7 +63,7 @@ content:
         link: www.lidarit.com
         # link_text: boringcompany.com
         sub_title: Líder de desarrollo
-        caption: Agosto 2019 - Presente
+        caption: Agosto 2019 - Diciembre 2024
         quote: >
           Digitalizando el mundo
         description: | # this will include new lines to allow paragraphs
