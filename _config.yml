@@ -67,10 +67,13 @@ content:
         quote: >
           Digitalizando el mundo
         description: | # this will include new lines to allow paragraphs
-            El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización. |
-            Definir y desarrollar productos software que dieran respuesta a la integración hardware (LiDAR + GNSS/INS). Tech: Flask, Rasberry Pi4, Docker. |
-            Definir y desarrollar productos software que permitieran el procesamiento de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos. Tech: Python, Multprocessing, Diseño GUI. |
-            Integrar LLM para aplicaciones generativas en educación, análisis de datos y automatización de procesos con IA. Tech: API Openai, API Anthropic, API Twilio, Python., Flask.
+            El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización.
+
+            Definir y desarrollar productos software que dieran respuesta a la integración hardware (LiDAR + GNSS/INS). *Tech: Flask, Rasberry Pi4, Docker.*
+
+            Definir y desarrollar productos software que permitieran el procesamiento de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos. *Tech: Python, Multprocessing, Diseño GUI.*
+
+            Integrar LLM para aplicaciones generativas en educación, análisis de datos y automatización de procesos con IA. *Tech: API Openai, API Anthropic, API Twilio, Python., Flask.*
 
       - layout: left
         title: Observatorio de Paz y Cultura Ciudadana de Santiago de Cali
