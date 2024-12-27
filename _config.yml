@@ -67,35 +67,28 @@ content:
         quote: >
           Digitalizando el mundo
         description: | # this will include new lines to allow paragraphs
-            El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización.
+            El desafío enfrentado fue alinear y priorizar los objetivos del equipo de desarrollo con los de la unidad de negocio y los de la organización. Logrando sacar al mercado LiDARit NAV, LiDARit Creator, lidaritmanger.ai, 
 
-            Definir y desarrollar productos software que dieran respuesta a la integración hardware (LiDAR + GNSS/INS). *Tech: Flask, Rasberry Pi4, Docker.*
+            Definir y desarrollar productos hardware/software que dieran respuesta a la integración de tecnologías LiDAR + GNSS/INS. *Skills* **Python**, **Rasberry Pi4**, **Docker**
 
-            Definir y desarrollar productos software que permitieran el procesamiento de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos. *Tech: Python, Multprocessing, Diseño GUI.*
+            Definir y desarrollar productos software que permitieran el procesamiento y la georeferenciación de datos LiDAR en aplicaciones Civiles, Forestales y Topográficos. *Skills* **Python**, **Multprocessing**, **Diseño GUI**, **Pandas**.
 
-            Integrar LLM para aplicaciones generativas en educación, análisis de datos y automatización de procesos con IA. *Tech: API Openai, API Anthropic, API Twilio, Python., Flask.*
-
-      - layout: left
-        title: Observatorio de Paz y Cultura Ciudadana de Santiago de Cali
-        link: 
-        # link_text: boringcompany.com
-        sub_title: Analista de datos
-        caption: Febrero 2019 - Agosto 2019
-        quote: >
-          Midiendo la Paz en Cali
-        description: | # this will include new lines to allow paragraphs
-            Definir el concepto de la paz para la ciudad de Santiago de Cali y encontrar como era afectado por indicadores de violencia fue el gran desafío enfrentado en el observatorio de Paz. El reto aquí fue por medio de instrumentos y talleres con la participación ciudadana encontrar una definición de Paz con un enfoque de ciencia de datos, pipelines de ingesta, extracción de tratamiento de información cualitativa y cuantitativa recopilada por intrumentos sociales y llegar a un indicador de una defición de Paz con enfoque territorial. Realizar procedimientos para analisis de datos. Realizar procedimientos para analisis de datos en Python y ETL desde fuentes de datos abiertos. 
+            Integrar modelos de inteligencia artificial LLM en aplicaciones generativas en educación, análisis de datos y automatización de procesos con IA. *Skills*: **API Openai**, **API Twilio**, **Python**, **AWS lambda**, **AWS S3**, **AWS EC2**, **AWS Route 53**, **Flask**.
 
       - layout: left
         title: Observatorio de Paz y Cultura Ciudadana de Santiago de Cali
         link: 
         # link_text: boringcompany.com
         sub_title: Analista de datos
-        caption: Febrero 2018 - Diciembre 2018
+        caption: Febrero 2018 - Agosto 2019
         quote: >
           Midiendo la Paz en Cali
         description: | # this will include new lines to allow paragraphs
-            Definir el concepto de la paz para la ciudad de Santiago de Cali y encontrar como era afectado por indicadores de violencia fue el gran desafío enfrentado en el observatorio de Paz. El reto aquí fue por medio de instrumentos y talleres con la participación ciudadana encontrar una definición de Paz con un enfoque de ciencia de datos, pipelines de ingesta, extracción de tratamiento de información cualitativa y cuantitativa recopilada por intrumentos sociales y llegar a un indicador de una defición de Paz con enfoque territorial. Realizar procedimientos para analisis de datos. Realizar procedimientos para analisis de datos en Python y ETL desde fuentes de datos abiertos.
+            El desafío consistió en desarrollar una definición de "Paz" específica para la ciudad de Santiago de Cali mediante un enfoque basado en ciencia de datos, que integrara instrumentos técnicos y talleres participativos con la comunidad. Este proceso buscaba identificar cómo los indicadores de violencia, así como las acciones derivadas de talleres y eventos organizados por la dependencia, impactaban en la percepción de paz en el territorio.
+
+            Para ello, se diseñó y ejecutó un pipeline de ciencia de datos que abarcó la ingesta, extracción y tratamiento de información cualitativa y cuantitativa recopilada a través de instrumentos sociales. Este pipeline permitió procesar grandes volúmenes de datos, identificar patrones y generar un indicador territorial de "Paz", alineado con las características y necesidades específicas de la ciudad.
+
+            *Skills*: **Python**, **MySQL**, **Pandas**, **Kobotoolbox**, **Liderazgo para talleres sociales** 
 
       - layout: left
         title: Real Group Interactive
